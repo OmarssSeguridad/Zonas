@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clima">
+        <item>Selecciona un clima</item>
+        <item>Cálido</item>
+        <item>Semiárido</item>
+        <item>Seco</item>
+        <item>Templado</item>
+        <item>Semifrío</item>
+        <item>Frio</item>
+    </string-array>
+
+
+</resources>
+
